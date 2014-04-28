@@ -6,7 +6,7 @@
 # and share it publicly using GitHub. 
 # 
 # PS: I've created a performance test [source(test.R)] for the functions
-#     below. The results are impressive: 
+#     below. The results are impressive: https://github.com/luiscape/ProgrammingAssignment2/blob/master/performance.png
 # 
 # Description:
 # ------------

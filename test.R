@@ -9,7 +9,7 @@
 # Providing a value larger than 14 could stall most home computers 
 # for a considerable ammount of time. 
 # 
-# You can see results of speed.test(20) in this link: 
+# You can see results of speed.test(20) in this link: https://github.com/luiscape/ProgrammingAssignment2/blob/master/performance.png
 # 
 # Use with CAUTION! 
 # -----------------
